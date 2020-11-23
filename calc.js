@@ -109,3 +109,4 @@ function calc () {
     getDinamicInformation('#weight');
     getDinamicInformation('#age');
 }
+export default calc;
